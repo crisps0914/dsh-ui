@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --base-content: theme('colors.base-content');
-  --base-100: theme('colors.base-100');
-  --base-200: theme('colors.base-200');
+  --base-content: text-blue-600;
+  --base-100: text-blue-600;
+  --base-200: text-blue-600;
   --alpha: 0.2;
 }
 
