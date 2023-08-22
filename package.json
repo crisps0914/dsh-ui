@@ -1,12 +1,12 @@
 {
-  "name": "react-daisyui",
-  "version": "4.0.4",
+  "name": "@crisps0914/react-daisyui",
+  "version": "4.0.8",
   "description": "react-daisyui - DaisyUI components built with React 🌼",
-  "author": "daisyui",
+  "author": "crisps0914",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/daisyui/react-daisyui.git"
+    "url": "https://github.com/crisps0914/dsh-ui.git"
   },
   "type": "module",
   "exports": {
